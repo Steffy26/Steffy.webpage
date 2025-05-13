@@ -1,4 +1,4 @@
-This is a personal static webpage for Steffy Christina B, built using HTML and CSS.
+This is a personal static webpage for me (Steffy), built using HTML and CSS.
 
 📂 Files
 index.html – Main webpage content.
