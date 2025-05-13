@@ -1,8 +1,9 @@
 This is a personal static webpage for me (Steffy), built using HTML and CSS.
 
 FILES:
-index.html – Main webpage content.
-style.css – All styling and background effects.
+1. index.html – Main webpage content.
+   
+2. style.css – All styling and background effects.
 
 FEATURES:
 1. Vibrant background
